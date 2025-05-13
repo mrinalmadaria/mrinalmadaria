@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrinal</h1>
-<h3 align="center">A passionate software developer and a cloud enthusiast</h3>
+<h3 align="center">A dedicated software developer with a strong passion for cloud technologies and innovative problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalmadaria&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalmadaria" /> </p>
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinalmadaria&show_icons=true&locale=en&layout=compact" alt="mrinalmadaria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinalmadaria&show_icons=true&locale=en" alt="mrinalmadaria" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinalmadaria&" alt="mrinalmadaria" /></p>
