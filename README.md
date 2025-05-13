@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinalmadaria&label=Profile%20views&color=0e75b6&style=flat" alt="mrinalmadaria" /> </p>
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Amazon Web Services.**
 
-- 💬 Ask me about **C++, Java, Data Structures & Algorithms**
+- 💬 Ask me about **C++, Java, MERN Stack Development, Data Structures & Algorithms.**
 
-- 📫 How to reach me **mrinalmadaria3@gmail.com**
+- 📫 Mail me at **mrinalmadaria3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
